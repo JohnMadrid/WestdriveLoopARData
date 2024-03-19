@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fb28c61-c4a8-466a-aed8-08b50bdb2df7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <workItem from="1710510061141" duration="56749000" />
       <workItem from="1710722743538" duration="315000" />
       <workItem from="1710723065050" duration="71000" />
-      <workItem from="1710723156707" duration="8084000" />
+      <workItem from="1710723156707" duration="25006000" />
     </task>
     <servers />
   </component>
